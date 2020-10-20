@@ -80,3 +80,11 @@ $ vim ~/.zshrc
 
 ZSH_THEME="powerlevel10k/powerlevel10k"
 ```
+
+### **zsh insecure completion issue**
+
+```bash
+$ vim ~/.zshrc
+
+ZSH_DISABLE_COMPFIX=true
+```
