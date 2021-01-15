@@ -3,7 +3,7 @@
 ## 1. Install Iterm2
 
 ```bash
-$ brew cask install iterm2
+$ brew install iterm2 --cask
 ```
 
 ## 2. Zsh
